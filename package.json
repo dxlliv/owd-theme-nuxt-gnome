@@ -63,9 +63,6 @@
     "jiti": "^2.7.0",
     "vue-tsc": "^3.3.13"
   },
-  "optionalDependencies": {
-    "@owdproject/nuxt-app-classic-audioplayer": "^4.0.0-alpha.3"
-  },
   "peerDependencies": {
     "@owdproject/core": "^4.0.0-alpha.3",
     "@owdproject/nuxt-kit-primevue": "^4.0.0-alpha.3",
